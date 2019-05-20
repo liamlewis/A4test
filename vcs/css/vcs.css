@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    color:  rgb(189, 243, 225);
+    background-color: rgb(79, 146, 209);
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    width: 75%;
+    border-radius: 10px;
+}
+body {
+    background-color: rgb(189, 243, 225);
+}
+p {
+    margin: auto;
+    text-align: center;
+    color:  rgb(79, 146, 209);
+}
+h3 {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    color:  rgb(189, 243, 225);
+    background-color: rgb(79, 146, 209);
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+    width: 20%;
+    border-radius: 5px;
+}
